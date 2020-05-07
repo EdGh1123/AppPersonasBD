@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name"  >AppPersona BD </string>
+    <string name="Texto_cedula">Cedula </string>
+    <string name="Texto_nombre">Nombre </string>
+    <string name="Texto_nombre1">BD Parcial</string>
+    <string name="Texto_nombre3" > EDITAR DATOS  </string>
+    <string name="Texto_estrato">Estrato</string>
+    <string name="Texto_salario">Sueldo</string>
+    <string name="Texto_nivel">Nivel de educativo</string>
+    <string name="texto_guardar">Guardar</string>
+    <string name="Texto_listado">Lista</string>
+    <string name="texto_ttitulo">Personas Registradas</string>
+    <string name="Hint_cedula">Digite la cedula</string>
+    <string name="Hint_nombre">digite el nombre</string>
+    <string name="Hint_salario">Digite el sueldo</string>
+
+    <string name="item_codigos">Cedula: </string>
+    <string name="item_pc">Estrato: </string>
+    <string name="item_smart">Salario: </string>
+    <string name="item_internet">Nivel educativo: </string>
+    <string name="item_nombre">Nombre:</string>
+
+
+    <string name="texto_actualizar">Editar</string>
+    <string name="texto_eliminar">Cancelar</string>
+
+    <string name="Editar_registro1">Editar</string>
+    <string name="borrar_registro">Eliminar</string>
+
+
+    <string-array fontFamily="@font/baloo" name="Niveles">
+        <item><font  color='#034345'>Bachillerato</font></item>
+        <item><font  color='#034345'>Pregrado</font></item>
+        <item><font  color='#034345'>Maestría</font></item>
+        <item><font  color='#034345'>Doctorado</font></item>
+    </string-array>
+
+    <string-array fontFamily="@font/baloo" name="Estratos" color='#034345'>
+        <item><font  color='#034345'>1</font></item>
+        <item><font  color='#034345'>2</font></item>
+        <item><font  color='#034345'>3</font></item>
+        <item><font  color='#034345'>4</font></item>
+        <item><font  color='#034345'>5</font></item>
+        <item><font  color='#034345'>6</font></item>
+    </string-array>
+</resources>
